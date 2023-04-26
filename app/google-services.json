@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847473131549",
+    "project_id": "silk-f6ead",
+    "storage_bucket": "silk-f6ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847473131549:android:07f015b04fd5a8566d86f4",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847473131549-p1n19lhs9vu2ifgiupjbdagp4nl1ohjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfAOOlbzodMMocBXdf1HsP1N1Q1ylNtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847473131549-p1n19lhs9vu2ifgiupjbdagp4nl1ohjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
